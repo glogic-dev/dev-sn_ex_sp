@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>$banner-768-svg : "b0cc5319533130101865ddeeff7b1240.iix";&#13;
+&#13;
+main.body {&#13;
+  padding-top: 0rem !important;&#13;
+}&#13;
+&#13;
+/* Padding for container after banner image */&#13;
+.padding-top {&#13;
+  padding-top: 2.4rem;&#13;
+}&#13;
+&#13;
+/* Padding bottom after each widget */&#13;
+.child-b-margin &gt; span &gt; div &gt; *{&#13;
+  margin-bottom: 2.4rem;&#13;
+}&#13;
+&#13;
+.mobile-banner {&#13;
+  background-position: right bottom !important;&#13;
+}&#13;
+&#13;
+/* Max width for Containers to stay in view port*/&#13;
+.container {&#13;
+  max-width: 100%;&#13;
+}&#13;
+&#13;
+@media (max-width: 48em) {&#13;
+  .ng-scope.mobile-banner {&#13;
+    background-image:url($banner-768-svg) !important;&#13;
+    background-repeat: no-repeat;&#13;
+    background-size: cover;&#13;
+  }&#13;
+  .child-b-margin &gt; span &gt; div &gt; *{&#13;
+    margin-bottom: 1.6rem;&#13;
+  }&#13;
+  .padding-right {&#13;
+    padding-right: 0rem;&#13;
+  }&#13;
+   .padding-top {&#13;
+    padding-top: 1.6rem;&#13;
+  }&#13;
+}&#13;
+&#13;
+@media (max-width : 62em) {&#13;
+  .container {&#13;
+    width : 100%;&#13;
+  }&#13;
+  .col-md-4 {&#13;
+    width : 100%&#13;
+  }&#13;
+  .col-md-8 {&#13;
+    width : 100%&#13;
+  }&#13;
+  .left-column{&#13;
+    padding-left: 2.4rem;&#13;
+    padding-right: 2.4rem;	&#13;
+  }	&#13;
+  .right-column{&#13;
+    padding-left: 2.4rem;&#13;
+    padding-right: 2.4rem;	&#13;
+  }&#13;
+}&#13;
+&#13;
+@media (min-width: 62em) {	&#13;
+  .container {	&#13;
+    padding-left: 1.2rem;	&#13;
+    padding-right: 1.2rem;	&#13;
+  }	&#13;
+  .left-column{&#13;
+    padding-right: 0rem;	&#13;
+  }	&#13;
+  .right-column{&#13;
+    padding-left: 2.4rem;&#13;
+    padding-right: 1.6rem;&#13;
+  }	&#13;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>ec_dashboard</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description>An employee's one stop shop to get help.</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-11 04:47:46</sys_created_on>
+        <sys_id>8c51a66b532030101865ddeeff7b120d</sys_id>
+        <sys_mod_count>147</sys_mod_count>
+        <sys_name>ec_dashboard</sys_name>
+        <sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+        <sys_update_name>sp_page_8c51a66b532030101865ddeeff7b120d</sys_update_name>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-10-25 15:04:38</sys_updated_on>
+        <title>Employee Center Homepage</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c51a66b532030101865ddeeff7b120d"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8c51a66b532030101865ddeeff7b120d</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>de</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-15 22:33:02</sys_created_on>
+        <sys_id>e8b7099887b811100aa262480cbb35cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-15 22:33:02</sys_updated_on>
+        <tablename>sp_page</tablename>
+        <value>Einzige Anlaufstelle eines Mitarbeiters, um Hilfe zu erhalten.</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8c51a66b532030101865ddeeff7b120d</documentkey>
+        <fieldname>short_description</fieldname>
+        <language>fr</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-16 00:06:43</sys_created_on>
+        <sys_id>b82d55d087f051100aa262480cbb35dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-16 00:06:43</sys_updated_on>
+        <tablename>sp_page</tablename>
+        <value>Guichet unique d'un employé pour obtenir de l'aide.</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8c51a66b532030101865ddeeff7b120d</documentkey>
+        <fieldname>title</fieldname>
+        <language>de</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-15 22:33:02</sys_created_on>
+        <sys_id>ecb7099887b811100aa262480cbb35cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-15 22:33:02</sys_updated_on>
+        <tablename>sp_page</tablename>
+        <value>Employee Center-Homepage</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>8c51a66b532030101865ddeeff7b120d</documentkey>
+        <fieldname>title</fieldname>
+        <language>fr</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-16 00:06:43</sys_created_on>
+        <sys_id>bc2d55d087f051100aa262480cbb35dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-16 00:06:43</sys_updated_on>
+        <tablename>sp_page</tablename>
+        <value>Page d'accueil Employee Center</value>
+    </sys_translated_text>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</claim_owner_scope>
+        <claim_timestamp>18c3edebbc30000001</claim_timestamp>
+        <metadata_update_name>sp_page_8c51a66b532030101865ddeeff7b120d</metadata_update_name>
+        <previous_claim_app_version>30.0.2</previous_claim_app_version>
+        <previous_claim_name>Employee Center</previous_claim_name>
+        <previous_claim_scope>4249e63a28d54d61bb6fbf61fd86cccb</previous_claim_scope>
+        <sys_created_by>A765770</sys_created_by>
+        <sys_created_on>2023-12-06 11:23:53</sys_created_on>
+        <sys_id>95cf7bfb477ef510d7bcf80cd36d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-12-06 11:23:53</sys_updated_on>
+    </sys_claim>
+</record_update>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>3</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">fd126e6b532030101865ddeeff7b12d1</sp_column>
+        <sp_widget display_value="Quick Links">dae53627530030101865ddeeff7b12be</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-16 07:36:50</sys_created_on>
+        <sys_id>2fd7d372775530104cdac0c23e5a9953</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name> Quick Links </sys_name>
+        <sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+        <sys_update_name>sp_instance_2fd7d372775530104cdac0c23e5a9953</sys_update_name>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-11-07 16:23:27</sys_updated_on>
+        <title> Quick Links </title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "",
+		"displayValue": ""
+	},
+	"card_type": {
+		"value": "Thumbnail",
+		"displayValue": "Thumbnail"
+	},
+	"card_size": {
+		"value": "Medium",
+		"displayValue": "Medium"
+	},
+	"text_alignment": {
+		"value": "Center",
+		"displayValue": "Center"
+	},
+	"show_icon": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_background": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"show_description": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"background_color": {
+		"value": "Primary",
+		"displayValue": "Primary"
+	},
+	"background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"icon_background_color": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"icon_background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"quick_links": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_text_overlay": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"text_overlay_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"text_color": {
+		"value": "false",
+		"displayValue": "false"
+	},
+	"text_color_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+     "quick_links": {
+        "value": "e648468e47c2b910d7bcf80cd36d43b4,215ae27d47027910d7bcf80cd36d43cd,84e46b2a479a3510d7bcf80cd36d434d",
+        "displayValue": "DAS Reset Test, Domain Pass reset, Register Mobile"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=2fd7d372775530104cdac0c23e5a9953"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>2fd7d372775530104cdac0c23e5a9953</documentkey>
+        <fieldname>title</fieldname>
+        <language>de</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-15 22:32:27</sys_created_on>
+        <sys_id>3387cd5887b811100aa262480cbb3559</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-15 22:32:27</sys_updated_on>
+        <tablename>sp_instance</tablename>
+        <value>Quick-Links</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>2fd7d372775530104cdac0c23e5a9953</documentkey>
+        <fieldname>title</fieldname>
+        <language>fr</language>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-07-16 00:05:59</sys_created_on>
+        <sys_id>8efc999087f051100aa262480cbb35fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-07-16 00:05:59</sys_updated_on>
+        <tablename>sp_instance</tablename>
+        <value>Liens rapides</value>
+    </sys_translated_text>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</claim_owner_scope>
+        <claim_timestamp>18c3edebbb40000001</claim_timestamp>
+        <metadata_update_name>sp_instance_2fd7d372775530104cdac0c23e5a9953</metadata_update_name>
+        <previous_claim_app_version>30.0.2</previous_claim_app_version>
+        <previous_claim_name>Employee Center</previous_claim_name>
+        <previous_claim_scope>4249e63a28d54d61bb6fbf61fd86cccb</previous_claim_scope>
+        <sys_created_by>A765770</sys_created_by>
+        <sys_created_on>2023-12-06 11:23:53</sys_created_on>
+        <sys_id>55cf7bfb477ef510d7bcf80cd36d4315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-12-06 11:23:53</sys_updated_on>
+    </sys_claim>
+</record_update>

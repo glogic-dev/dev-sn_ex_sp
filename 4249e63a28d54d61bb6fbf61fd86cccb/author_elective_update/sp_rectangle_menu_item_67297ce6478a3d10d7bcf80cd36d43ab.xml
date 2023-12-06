@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="DELETE">
+        <active>true</active>
+        <color>default</color>
+        <condition>gs.isLoggedIn() &amp;&amp; gs.getUser().hasRoles()</condition>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Agent</label>
+        <order>300</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page/>
+        <sp_rectangle_menu display_value="Employee Center Menu">493d01365368301056c1ddeeff7b1207</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>A765770</sys_created_by>
+        <sys_created_on>2023-10-25 16:58:07</sys_created_on>
+        <sys_id>67297ce6478a3d10d7bcf80cd36d43ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent</sys_name>
+        <sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_67297ce6478a3d10d7bcf80cd36d43ab</sys_update_name>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-10-25 16:58:07</sys_updated_on>
+        <table/>
+        <type>url</type>
+        <url>navpage.do</url>
+        <url_target>_self</url_target>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="DELETE" query="documentkey=67297ce6478a3d10d7bcf80cd36d43ab"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</application>
+        <file_path/>
+        <instance_id>dfe55538db7308108aea21c405961975</instance_id>
+        <instance_name>wldev</instance_name>
+        <name>sp_rectangle_menu_item_67297ce6478a3d10d7bcf80cd36d43ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item"><sp_rectangle_menu_item action="INSERT_OR_UPDATE"><active>true</active><color>default</color><condition>gs.isLoggedIn() &amp;&amp; gs.getUser().hasRoles()</condition><display_1/><display_2/><display_date/><filter/><glyph/><hint/><kb_article/><kb_category/><kb_topic/><label>Agent</label><order>300</order><record_script/><sc_cat_item/><sc_category/><short_description/><sp_page/><sp_rectangle_menu display_value="Employee Center Menu">493d01365368301056c1ddeeff7b1207</sp_rectangle_menu><sp_rectangle_menu_item/><sys_class_name>sp_rectangle_menu_item</sys_class_name><sys_created_by>A765770</sys_created_by><sys_created_on>2023-10-25 16:58:07</sys_created_on><sys_id>67297ce6478a3d10d7bcf80cd36d43ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Agent</sys_name><sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package><sys_policy/><sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope><sys_update_name>sp_rectangle_menu_item_67297ce6478a3d10d7bcf80cd36d43ab</sys_update_name><sys_updated_by>A765770</sys_updated_by><sys_updated_on>2023-10-25 16:58:07</sys_updated_on><table/><type>url</type><url>navpage.do</url><url_target>_self</url_target></sp_rectangle_menu_item><sys_translated_text action="delete_multiple" query="documentkey=67297ce6478a3d10d7bcf80cd36d43ab"/></record_update>]]></payload>
+        <payload_hash>-710328739</payload_hash>
+        <record_name>Agent</record_name>
+        <reverted_from/>
+        <source>2c7dce8a4706b910d7bcf80cd36d435d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>A765770</sys_created_by>
+        <sys_created_on>2023-10-25 16:58:07</sys_created_on>
+        <sys_id>7f79742a478a3d10d7bcf80cd36d43f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b67c5a4df0000001</sys_recorded_at>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-10-25 16:58:07</sys_updated_on>
+        <type>Menu Item</type>
+        <update_guid>b779bca6278a3d10918e5c8c681b94c9</update_guid>
+        <update_guid_history>b779bca6278a3d10918e5c8c681b94c9:-710328739</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Agent">74dab0aa478a3d10d7bcf80cd36d43fe</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>A765770</sys_created_by>
+        <sys_created_on>2023-10-25 17:03:56</sys_created_on>
+        <sys_db_object display_value="sp_rectangle_menu_item" name="sp_rectangle_menu_item">sp_rectangle_menu_item</sys_db_object>
+        <sys_id>01884ef08aa643deb1b25272ddde98a4</sys_id>
+        <sys_metadata>67297ce6478a3d10d7bcf80cd36d43ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent</sys_name>
+        <sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+        <sys_scope_delete display_value="">167ab2d5c48f443089810fd15c7d5b24</sys_scope_delete>
+        <sys_update_name>sp_rectangle_menu_item_67297ce6478a3d10d7bcf80cd36d43ab</sys_update_name>
+        <sys_update_version display_value="sp_rectangle_menu_item_67297ce6478a3d10d7bcf80cd36d43ab">7f79742a478a3d10d7bcf80cd36d43f6</sys_update_version>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-10-25 17:03:56</sys_updated_on>
+    </sys_metadata_delete>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</claim_owner_scope>
+        <claim_timestamp>18c3edebbb90000001</claim_timestamp>
+        <metadata_update_name>sp_rectangle_menu_item_67297ce6478a3d10d7bcf80cd36d43ab</metadata_update_name>
+        <previous_claim_app_version>30.0.2</previous_claim_app_version>
+        <previous_claim_name>Employee Center</previous_claim_name>
+        <previous_claim_scope>4249e63a28d54d61bb6fbf61fd86cccb</previous_claim_scope>
+        <sys_created_by>A765770</sys_created_by>
+        <sys_created_on>2023-12-06 11:23:53</sys_created_on>
+        <sys_id>11cf7bfb477ef510d7bcf80cd36d4316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-12-06 11:23:53</sys_updated_on>
+    </sys_claim>
+</record_update>

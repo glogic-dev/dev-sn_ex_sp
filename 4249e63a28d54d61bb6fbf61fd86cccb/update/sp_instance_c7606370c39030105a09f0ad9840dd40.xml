@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">17506370c39030105a09f0ad9840dd3b</sp_column>
+        <sp_widget display_value="Topic Header">10e99777c38830105a09f0ad9840ddbd</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-21 10:03:34</sys_created_on>
+        <sys_id>c7606370c39030105a09f0ad9840dd40</sys_id>
+        <sys_mod_count>105</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee Center" source="sn_ex_sp">4249e63a28d54d61bb6fbf61fd86cccb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</sys_scope>
+        <sys_update_name>sp_instance_c7606370c39030105a09f0ad9840dd40</sys_update_name>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-11-08 11:36:34</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"include_description": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"primary_display": {
+		"value": "icon",
+		"displayValue": "Icon"
+	},
+	"secondary_display": {
+		"value": "banner",
+		"displayValue": "Banner"
+	},
+	"select_topics": {
+		"value": "37d6daf9478e3910d7bcf80cd36d4372,70d5ea7547027910d7bcf80cd36d43c7,41d844f2479e3510d7bcf80cd36d439d",
+		"displayValue": "IT, Facility Mgt, HR"
+	},
+	"banner_background_color": {
+		"value": "brand-primary",
+		"displayValue": "Brand Primary"
+	},
+	"banner_background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	},
+	"banner_image_position": {
+		"value": "center center",
+		"displayValue": "Center Center"
+	},
+	"banner_image_display": {
+		"value": "cover",
+		"displayValue": "Scale to fit"
+	},
+	"banner_text_overlay_color": {
+		"value": "topic-header-gradient-dark",
+		"displayValue": "Overlay Dark"
+	},
+	"banner_text_overlay_transparency": {
+		"value": "0.5",
+		"displayValue": "0.5"
+	},
+	"icon_background_color": {
+		"value": "background-primary",
+		"displayValue": "Background Primary"
+	},
+	"icon_background_hexcode": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c7606370c39030105a09f0ad9840dd40"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Employee Center">4249e63a28d54d61bb6fbf61fd86cccb</claim_owner_scope>
+        <claim_timestamp>18c3edebbbe0000001</claim_timestamp>
+        <metadata_update_name>sp_instance_c7606370c39030105a09f0ad9840dd40</metadata_update_name>
+        <previous_claim_app_version>30.0.2</previous_claim_app_version>
+        <previous_claim_name>Employee Center</previous_claim_name>
+        <previous_claim_scope>4249e63a28d54d61bb6fbf61fd86cccb</previous_claim_scope>
+        <sys_created_by>A765770</sys_created_by>
+        <sys_created_on>2023-12-06 11:23:53</sys_created_on>
+        <sys_id>d9cf7bfb477ef510d7bcf80cd36d4316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>A765770</sys_updated_by>
+        <sys_updated_on>2023-12-06 11:23:53</sys_updated_on>
+    </sys_claim>
+</record_update>
